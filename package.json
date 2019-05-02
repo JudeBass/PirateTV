@@ -2,7 +2,7 @@
   "name": "PirateTV",
   "version": "0.0.1",
   "description": "Stream 1337x movies",
-  "repository": "https://github.com/JudeBass/pirateFlix",
+  "repository": "https://github.com/JudeBass/PirateTV",
   "main": "index.js",
   "scripts": {
     "start": "node src/cli.js",
