@@ -62,6 +62,6 @@ module.exports = function () {
       return app.query();
 
     default:
-      return console.log('\n  Stream 1337x movies directly from CLI\n\n  Follow the steps by the wizard and\n  make sure you have VLC installed.\n\n  \u001b[31m\u001b[1mOptions:\u001b[22m\u001b[39m\n  \u001b[1m--search\u001b[22m Optional value to start the query.\n  \u001b[1m--history\u001b[22m Starts with the history of watched torrents.\n  \u001b[1m--clear\u001b[22m Clears history of watched torrents.\n\n  \u001b[31m\u001b[1mUsage:\u001b[22m\u001b[39m\n  \u001b[1mpirateflix [options]\u001b[22m\n');
+      return console.log('\n  Stream 1337x movies directly from CLI\n\n  Follow the steps by the wizard and\n  make sure you have VLC installed.\n\n  \u001b[31m\u001b[1mOptions:\u001b[22m\u001b[39m\n  \u001b[1m--search\u001b[22m Optional value to start the query.\n  \u001b[1m--history\u001b[22m Starts with the history of watched torrents.\n  \u001b[1m--clear\u001b[22m Clears history of watched torrents.\n\n  \u001b[31m\u001b[1mUsage:\u001b[22m\u001b[39m\n  \u001b[1mPirateTV [options]\u001b[22m\n');
   }
 }();
