@@ -1,8 +1,8 @@
 {
-  "name": "pirateflix",
-  "version": "1.0.15",
-  "description": "Stream piratebay movies directly from CLI",
-  "repository": "github:Lisheng2016/pirateflix",
+  "name": "PirateTV",
+  "version": "0.0.1",
+  "description": "Stream 1337x movies",
+  "repository": "https://github.com/JudeBass/pirateFlix",
   "main": "index.js",
   "scripts": {
     "start": "node src/cli.js",
@@ -19,11 +19,11 @@
     "bin"
   ],
   "keywords": [
-    "piratebay",
+    "1337x",
     "stream",
     "torrent"
   ],
-  "author": "Weslley Araujo <weslleyaraujo20@gmail.com>,Jim Li <admin@mail.wavejs.com>",
+  "author": "JudeBass",
   "license": "MIT",
   "dependencies": {
     "babel-core": "^6.7.4",

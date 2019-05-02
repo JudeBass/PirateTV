@@ -6,7 +6,7 @@
 
 ## Install from npm package
 ```sh
-$ npm install pirateflix@1.0.15
+$ npm install PirateTV
 ```
 
 ## Install from git repo
@@ -39,7 +39,7 @@ $ which pirateflix
 ## Options
 
 ```sh
-$ pirateflix --help
+$ PirateTV --help
   Follow the steps by the wizard and
   make sure you have VLC installed.
 
@@ -49,14 +49,14 @@ $ pirateflix --help
     --clear Clears history of watched torrents.
 
   Usage:
-    pirateflix [options]
+    Pirateflix [options]
 ```
 
 ## Usage
 
 ```sh
-$ pirateflix # will open movie wizard
-$ pirateflix --search="Interstellar" # will perform a search
+$ PirateTV # will open movie wizard
+$ PirateTV --search="Interstellar" # will perform a search
 ```
 
 ## Overview
