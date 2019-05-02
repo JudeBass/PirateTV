@@ -21,7 +21,7 @@ module.exports = function () {
       ${chalk.bold('--clear')} Clears history of watched torrents.
 
       ${chalk.red.bold('Usage:')}
-      ${chalk.bold('pirateflix [options]')}
+      ${chalk.bold('PirateTV [options]')}
       `
       );
 
